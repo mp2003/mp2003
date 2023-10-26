@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there, I'm Milind Pandey! 👋<br>I'm passionate about JavaScript and currently diving deep into the world of frontend development. My learning journey includes mastering React.js and exploring the possibilities with Next.js.<br><br>🚀 Open to exciting job opportunities in the tech space!<br><br>
+# Hi there, I'm Milind Pandey!
+👋<br>I'm passionate about JavaScript and currently diving deep into the world of frontend development. My learning journey includes mastering React.js and exploring the possibilities with Next.js.<br><br>🚀 Open to exciting job opportunities in the tech space!<br><br>
 
 
 ## 🌐 Socials:
