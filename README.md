@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mp2003&theme=maroongold&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mp2003&theme=maroongold&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mp2003)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mp2003&theme=maroongold)](https://git.io/streak-stats)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
