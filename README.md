@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi there, I'm Milind Pandey!
-👋<br>I'm passionate about JavaScript and currently diving deep into the world of frontend development. My learning journey includes mastering React.js and exploring the possibilities with Next.js.<br><br>🚀 Open to exciting job opportunities in the tech space!<br><br>
+👋<br>I'm passionate about JavaScript and currently diving deep into the world of frontend development. My learning journey includes mastering React.js and exploring the possibilities with Next.js.<br><br>🚀 Open to exciting job opportunities in the tech space!
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -15,6 +15,9 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Milind_Pandey) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milindpandey__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milind-pandey0609) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Milind19693368) 
 
